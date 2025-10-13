@@ -1,6 +1,5 @@
 # Wildfire Detection Project
-In this project, we created a U-net deep learning model that takes any satellite imagery and detects the wildfire burning scar. <br/>
-The model is trained on Databricks, and the application is deployed on Streamlit. <br/>
+In this project, we created a U-net deep learning model that takes any satellite imagery and detects the wildfire burning scar. The model is trained on Databricks, and the application is deployed on Streamlit. <br/>
 
 
 ### Installation 
